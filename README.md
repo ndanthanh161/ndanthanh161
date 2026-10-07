@@ -16,5 +16,5 @@
 `Backend Architecture` `Software Testing` `Design Patterns`
 
 ## 📫 Contact
-- Email: `YOUR_EMAIL`
-- LinkedIn: `YOUR_LINKEDIN`
+- Email: `ndanthanh161@gmail.com`
+- Phone: `0933205047`
